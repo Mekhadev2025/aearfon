@@ -1,0 +1,45 @@
+ 
+div{
+    color:white;
+}
+.productimg{
+   
+    display:flex;
+}
+.cards--list{
+    padding: 10px;
+     
+}
+ .cards--box{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    grid-gap :100px; 
+    margin-left: 300px;
+    margin-right:1000px;
+    margin-top: 200px;
+} 
+.search--container{
+    margin-left:300px;
+    margin-right: 500px;
+    margin-top:70px;
+display: grid;
+grid-template-columns: auto auto auto auto auto auto auto auto ;
+grid-gap: 10px;
+ 
+ 
+   
+}
+ 
+  .search--container button{
+    border-radius: 20px;
+    width:160px;
+    height:50px;
+    border: white;
+  }
+
+  .search--container button:hover{
+    background-color: black;
+   
+    color:white;
+    border: black;
+  }

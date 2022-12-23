@@ -1,0 +1,46 @@
+.card--container{
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color:white;
+    width:300px;
+    height:550px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.card--image{
+    width: 300px;
+    height:300px;
+}
+.price{  
+    color:black;
+    display: flex;
+    align-items: center;
+     padding:10px;
+     justify-content: space-around;
+}
+.card--btn{
+background-color: black;
+color:aliceblue;
+width:150px;
+height:50px;
+}
+.card--price{
+   
+    font-weight:bolder;
+    font-size: larger;
+}
+.card--orgprice{
+    text-decoration:line-through;
+    color:gray;
+}
+.card--title{
+    font-weight: bolder;
+}
+.LINK{
+    color:black;
+    background-color: black;
+    border-radius: 0px;
+    margin: 2px;
+}

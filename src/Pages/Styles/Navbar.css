@@ -2,7 +2,7 @@
   position: fixed;
     display:flex;
     align-items: center;
-
+    width:fit-content
 }
 .sections{
     margin-left:40%;
@@ -23,6 +23,7 @@
     height:20px;
  }
  .logoimg{
+  
    height:20px;
    padding-left: 20px;
    align-items: center;
